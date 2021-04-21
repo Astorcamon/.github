@@ -4,6 +4,9 @@ Welcome! We love receiving contributions from our community, so thanks for stopp
 
 ## Table of Contents:
 
+<details>
+    <summary>Click to expand</summary>
+    
 1. [Code of Conduct](#code-of-conduct)
 2. [Important Resources](#important-resources)
 2. [Questions](#questions)
@@ -19,18 +22,19 @@ Welcome! We love receiving contributions from our community, so thanks for stopp
     1. [Style Guidelines](#style-guidelines)
     1. [Code Formatting Rules](#code-formatting)
     1. [Whitespace Cleanup](#whitespace-cleanup)
-1. [Pull Request Guidelines](#pull-request-guidelines)
+7. [Pull Request Guidelines](#pull-request-guidelines)
     1. [Review Process](#review-process)
     1. [Addressing Feedback](#addressing-feedback)
-1. [Community](#community)
-
+8. [Community](#community)
+ 
+</details>
 
 ## Code of Conduct
 By participating in this project, you agree to abide by the [Code of Conduct][0]. We expect all contributors to follow the [Code of Conduct][0] and to treat fellow humans with respect.
 
 
 ## Important Resources
-Report security issues: [Coming soon][0]
+To Report security issues see the documentation of the project.
 
 ## Questions
 If you have any question, please send it to Discussions/Questions of the proyect if available. Otherwise create a new issue with the label of question.
