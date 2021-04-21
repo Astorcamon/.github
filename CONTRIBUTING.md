@@ -8,8 +8,8 @@ Welcome! We love receiving contributions from our community, so thanks for stopp
 2. [Important Resources](#important-resources)
 2. [Questions](#questions)
 3. [Feature Requests](#feature-requests)
-4. [Improving Documentation](#improving-documentation)
-5. [Reporting Bugs](#reporting-bugs)
+4. [Reporting Bugs](#reporting-bugs)
+5. [Improving Documentation](#improving-documentation)
 6. [Contributing Code](#contributing-code)
     1. [Getting Started](#getting-started)
     1. [Finding an Issue!](#finding-an-issue)
@@ -68,6 +68,7 @@ Working on your first open source project or pull request? Her are some helpful 
 * [Make a Pull Request][3]
 * [First Timers Only][4]
 
+
 ### Getting Started
 
 You will need to fork the main repository to work on your changes. Simply navigate to our GitHub page and click the "Fork" button at the top. Once you've forked the repository, you can clone your new repository and start making edits.
@@ -89,6 +90,7 @@ git checkout newfeature
 
 For more information on the GitHub fork and pull-request processes, [please see this helpful guide][5].
 
+
 ### Finding an Issue
 
 Pick an unassigned issue that you think you can accomplish and add a comment that you are attempting to do it.
@@ -98,6 +100,7 @@ Provide notes on different kinds of issues or labels
 > `good first issue` labeled issues are deemed to be good low-hanging fruit for newcomers to the project
 > `help wanted` labeled issues may be more difficult than `good first issue` and may include new feature development
 > `documentation` labeled issues must only touch content in the `docs` folder.
+
 
 ### Development Process
 
