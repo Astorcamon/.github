@@ -15,9 +15,9 @@ We are glad to know about your doubts and response the questions you may have, b
 If nothing of this helps you:
 
 Check the option is related to.
-- [] Feature:
-- [] Documentation:
-- [] How to...:
-- [] Others:
+- [ ] Feature:
+- [ ] Documentation:
+- [ ] How to...:
+- [ ] Others:
 
 Type here your question, clear and concise:
