@@ -7,7 +7,7 @@ assignees: 'Astorcamon'
 
 ---
 
-We are glad to know about your interest in our projects and will response to the suggestions you may have ASAP. <br/>
+We are glad to know about your interest in our projects and will response to the suggestions you may have ASAP.
 Note that if the suggestion is applicable, might take a while to be developed, so have patient.
 Before of all, please, follow these suggestions:
 
@@ -18,3 +18,4 @@ Before of all, please, follow these suggestions:
 If nothing of this helps you:
 
 **Type here your suggestion, clear and concise:**
+
