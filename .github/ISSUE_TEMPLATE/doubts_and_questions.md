@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Send a doubt or question
+name: Doubts and questions
+about: Send a doubt or question.
 title: ''
 labels: 'question'
 assignees: 'Astorcamon'
