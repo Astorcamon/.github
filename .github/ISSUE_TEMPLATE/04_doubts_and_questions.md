@@ -1,5 +1,5 @@
 ---
-name: 4- Doubts and questions
+name: Doubts and questions
 about: Send a doubt or question.
 title: ''
 labels: 'question'
