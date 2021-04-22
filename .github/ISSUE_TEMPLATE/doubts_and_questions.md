@@ -7,7 +7,7 @@ assignees: 'Astorcamon'
 
 ---
 
-We are glad to know about your interest in our projects and will response to the doubts you may have ASAP, but before of all, please, follow these suggestions:
+We are glad to know about your interest in our projects and will response to the doubts you may have ASAP.
 Note that if the question is applicable, might take a while to be answered, so have patient.
 Before of all, please, follow these suggestions:
 
