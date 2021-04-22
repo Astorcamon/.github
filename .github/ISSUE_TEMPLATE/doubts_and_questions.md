@@ -14,10 +14,10 @@ We are glad to know about your interest in our projects and will response to the
 
 If nothing of this helps you:
 
-Check the option is related to.
+**Check the option is related to.**
 - [ ] Feature:
 - [ ] Documentation:
 - [ ] How to...:
 - [ ] Others:
 
-Type here your question, clear and concise:
+**Type here your question, clear and concise:**
