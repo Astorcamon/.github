@@ -25,4 +25,4 @@ If nothing of this helps you:
 - [ ] **UML:** (UML diagrams)
 - [ ] **Others:**
 
-**Type here your sugestion, clear and concise:**
+**Type here your suggestion, clear and concise:**
