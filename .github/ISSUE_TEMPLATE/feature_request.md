@@ -7,14 +7,7 @@ assignees: 'Astorcamon'
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+We are glad to know about your interest in our projects and will response to the suggestions you may have ASAP.
+Note that it the suggestion is applicable, might take a while to be developed, so have patient.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+Type here the suggestion you have, clear and concise:
