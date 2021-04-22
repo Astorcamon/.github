@@ -7,5 +7,17 @@ assignees: 'Astorcamon'
 
 ---
 
-If you have some doubt or question about how to use, please, read the documentation of the project.
-If you still having doubts or your question is not resolved by reading the documentation writte here clear and concise what you want to know.
+We are glad to know about your doubts and response the questions you may have, but before of all, please, follow these suggestions:
+1. Read the documentation of the project, it could help you and you could learn something new.
+2. Search at discussion > questions of the project (if exists), it could have what you are looking for.
+3. Search at issues of the project, could have been answered earlier.
+
+If nothing of this helps you:
+
+Check the option is related to.
+- [] Feature:
+- [] Documentation:
+- [] How to...:
+- [] Others:
+
+Type here your question, clear and concise:
