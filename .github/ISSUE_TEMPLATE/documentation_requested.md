@@ -8,7 +8,7 @@ assignees: 'Astorcamon'
 ---
 
 We are glad to know about your interest in our projects and will response to the documentation suggestions you may have ASAP.
-Note that if the suggestion is applicable, might take a while to be developed, so have patient.
+Note that if the suggestion is applicable, might take a while to be applied, so have patient.
 
 **Check the option is related to.**
 - [ ] **Readme:** (readme of the project)
