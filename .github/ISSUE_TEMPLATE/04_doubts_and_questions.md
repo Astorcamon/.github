@@ -1,6 +1,6 @@
 ---
 name: Doubts and questions
-about: Send a doubt or question.
+about: Send a doubt or question about the project.
 title: ''
 labels: '0 Question'
 assignees: 'Astorcamon'
