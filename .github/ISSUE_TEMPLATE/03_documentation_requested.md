@@ -23,6 +23,6 @@ If nothing of this helps you:
 - [ ] **Project doc:** (file or part of the content from the project documentation)
 - [ ] **Api doc:** (classes, methods or properties)
 - [ ] **UML:** (UML diagrams)
-- [ ] **Others:**
+- [ ] **Others:** (Please insert a short description: _____________)
 
 **Type here your suggestion, clear and concise:**
