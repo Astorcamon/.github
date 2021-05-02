@@ -2,7 +2,7 @@
 name: Documentation suggest
 about: Suggest anything related to documentation.
 title: ''
-labels: 'documentation'
+labels: '0 Documentation'
 assignees: 'Astorcamon'
 
 ---
