@@ -1,6 +1,6 @@
 ---
 name: Security risk report
-about: Create a report to help us improve
+about: Create a secret report for security issues
 title: ''
 labels: '0 Security Risk'
 assignees: 'Astorcamon'
