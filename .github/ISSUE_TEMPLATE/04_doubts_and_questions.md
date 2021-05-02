@@ -2,7 +2,7 @@
 name: Doubts and questions
 about: Send a doubt or question.
 title: ''
-labels: 'question'
+labels: '0 Question'
 assignees: 'Astorcamon'
 
 ---
@@ -24,6 +24,6 @@ If nothing of this helps you:
 - [ ] **Api doc:** (classes, methods or properties)
 - [ ] **UML:** (UML diagrams)
 - [ ] **How to...:** (how to do something)
-- [ ] **Others:**
+- [ ] **Others:** (Please insert a short description: _____________)
 
 **Type here your question, clear and concise:**
