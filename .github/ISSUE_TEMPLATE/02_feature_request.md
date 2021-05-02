@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: '0 enhancement'
+labels: '0 Enhancement'
 assignees: 'Astorcamon'
 
 ---
