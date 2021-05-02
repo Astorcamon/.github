@@ -7,8 +7,8 @@ assignees: 'Astorcamon'
 
 ---
 
-We are glad to know about your interest in our projects and will response to the documentation suggestions you may have ASAP.
-Note that if the suggestion is applicable, might take a while to be applied, so have patient.
+We are glad to know about your interest in our projects and will response to the bug you found ASAP.
+Note that if the problem is applicable, might take a while to be solved, so have patient.
 Before of all, please, follow these suggestions:
 
 1. **Read the documentation of the project**, it could help you and you could learn something new.
