@@ -22,7 +22,7 @@ A clear and concise description of what the bug is.
 
 **IMPORTANT:** 
 **Notice that after you send this report, you will not view it anymore cause it is transferred to a private environment for security reasons.**
-**You may add a new security report if you forgot something or want to attach something more after sending this.**
+**You can add a new security report if you forgot something or want to attach something more after send this.**
 
 **To Reproduce**
 Steps to reproduce the behavior:
